@@ -1,0 +1,16 @@
+Title:
+Animated earth series
+
+Short description:
+This page is made to display how water can affect earth environment and why we need to save it before its too late.
+
+Nav bar:
+Home about Gallery Contacts
+
+color:
+rgb(0,225,225)
+
+ font-family: "Playfair Display", serif;
+
+Font awesome cdn:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
